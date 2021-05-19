@@ -1,0 +1,14 @@
+a=int(input())
+b=int(input())
+c=int(input())
+sums=a+b+c
+print(sums)
+average=(sums)/3
+print(average)
+
+O/P:
+10
+20
+30
+60
+20.0
